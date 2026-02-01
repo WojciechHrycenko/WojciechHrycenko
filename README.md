@@ -28,8 +28,8 @@ I don't just report on what happened; I aim to build systems that help to predic
 
 ### 🎓 Education
 
-* 🎓 **University of Warsaw** | Data Science & Business Analytics (Master's degree, in progress)
-* 🎓 **Warsaw University of Technology** | Internet of Things Engineering (Engineer's degree)
+* **University of Warsaw** | Data Science & Business Analytics (Master's degree, in progress)
+* **Warsaw University of Technology** | Internet of Things Engineering (Engineer's degree)
 
 ---
 
