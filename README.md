@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Wojciech! 👋
 
-<!--
-**WojciechHrycenko/WojciechHrycenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BI Developer & Data Enthusiast
 
-Here are some ideas to get you started:
+I am a **BI Developer with an engineer's mindset**, currently working at **LOT Polish Airlines**. My background in **IoT Engineering** combined with advanced studies in **Data Science** gives me a unique perspective on the entire data lifecycle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don't just report on what happened; I aim to build systems that help to predict what comes next, bridging the gap between descriptive reporting and advanced analytics.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Data Analysis:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**BI & Cloud:**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+**Engineering & DevOps:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### 🎓 Education
+
+* 🎓 **University of Warsaw** | Data Science & Business Analytics (Master's degree, in progress)
+* 🎓 **Warsaw University of Technology** | Internet of Things Engineering (Engineer's degree)
+
+---
+
+### 📂 Selected Projects
+
+#### 🍳 [Recipe Recommendation Engine (R & Shiny)](https://github.com/WojciechHrycenko/YOUR-REPO-NAME-HERE)
+A smart cooking recommendation system built with **R6 classes** and **Shiny**.
+* **Goal:** Solving the "what can I cook with this?" dilemma using Named Entity Recognition (NER) to match user inventory with recipe requirements.
+* **Tech:** R, Shiny, JSON parsing, OOP.
+
+#### 🧠 [Big Personalities Analysis (Python)](https://github.com/WojciechHrycenko/YOUR-REPO-NAME-HERE)
+An analytical tool visualizing global personality patterns (Big Five) correlated with HDI indices.
+* **Goal:** Exploring psychological data and visualizing cultural differences using interactive dashboards.
+* **Tech:** Python, Streamlit, Plotly, SQLite.
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wojciechhrycenko&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wojciechhrycenko&layout=compact&theme=default&hide_border=true)
+
+---
+
+### 📫 Contact Me
+
+<a href="https://linkedin.com/in/wojciech-hrycenko">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:wojciechhrycenko@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
