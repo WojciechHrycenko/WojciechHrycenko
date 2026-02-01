@@ -50,8 +50,7 @@ An analytical tool visualizing global personality patterns (Big Five) correlated
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wojciechhrycenko&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wojciechhrycenko&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=WojciechHrycenko&theme=dark&hide=forks,contributed)
 
 ---
 
