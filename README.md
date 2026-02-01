@@ -23,7 +23,6 @@ I don't just report on what happened; I aim to build systems that help to predic
 
 **Engineering & DevOps:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -31,26 +30,6 @@ I don't just report on what happened; I aim to build systems that help to predic
 
 * 🎓 **University of Warsaw** | Data Science & Business Analytics (Master's degree, in progress)
 * 🎓 **Warsaw University of Technology** | Internet of Things Engineering (Engineer's degree)
-
----
-
-### 📂 Selected Projects
-
-#### 🍳 [Recipe Recommendation Engine (R & Shiny)](https://github.com/WojciechHrycenko/YOUR-REPO-NAME-HERE)
-A smart cooking recommendation system built with **R6 classes** and **Shiny**.
-* **Goal:** Solving the "what can I cook with this?" dilemma using Named Entity Recognition (NER) to match user inventory with recipe requirements.
-* **Tech:** R, Shiny, JSON parsing, OOP.
-
-#### 🧠 [Big Personalities Analysis (Python)](https://github.com/WojciechHrycenko/YOUR-REPO-NAME-HERE)
-An analytical tool visualizing global personality patterns (Big Five) correlated with HDI indices.
-* **Goal:** Exploring psychological data and visualizing cultural differences using interactive dashboards.
-* **Tech:** Python, Streamlit, Plotly, SQLite.
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=WojciechHrycenko&theme=dark&hide=forks,contributed)
 
 ---
 
