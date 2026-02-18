@@ -35,7 +35,7 @@ I don't just report on what happened; I aim to build systems that help to predic
 
 ### 📫 Contact Me
 
-<a href="https://linkedin.com/in/wojciech-hrycenko">
+<a href="https://linkedin.com/in/wojciechhrycenko">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 <a href="mailto:wojciechhrycenko@gmail.com">
